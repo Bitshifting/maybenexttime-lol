@@ -37,6 +37,6 @@ RELATIVE_URLS = True
 
 
 # Theme variables
-THEME='../pelican-themes/pelican-svbhack/'
+THEME='../pelican-themes/pelican-svbhack-orig/'
 USER_LOGO_URL='http://maybenexttime.lol/static/logo.png'
 
